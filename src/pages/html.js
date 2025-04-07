@@ -11,7 +11,7 @@ const Html = () => {
   return (
     <>
          <Helmet>
-        <title>My HTML Page</title>
+        <title>HTML Page</title>
         <meta name="description" content="HTMLLLLLLLLLLLLLLLL" />
       </Helmet>
     <Header />
